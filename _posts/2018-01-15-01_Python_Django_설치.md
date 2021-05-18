@@ -2,7 +2,7 @@
 layout: post
 title: Python + Django 설치
 description: >
-tags: [django]
+categories: django
 ---
 
 

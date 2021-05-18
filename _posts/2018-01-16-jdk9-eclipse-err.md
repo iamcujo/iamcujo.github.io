@@ -2,7 +2,7 @@
 layout: post
 title: JDK 9 설치 후 이클립스 실행 오류
 description: >
-tags: [etc]
+categories: eclipse
 ---
 
 **오류 발생 케이스**

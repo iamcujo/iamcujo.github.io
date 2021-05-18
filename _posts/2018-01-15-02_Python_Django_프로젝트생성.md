@@ -2,7 +2,7 @@
 layout: post
 title: Python + Django 프로젝트 생성
 description: >
-tags: [django]
+categories: django
 ---
 
 

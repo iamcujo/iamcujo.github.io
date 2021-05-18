@@ -2,7 +2,7 @@
 layout: post
 title: 마크다운 문법정리
 description: >
-tags: [etc]
+categories: markdown
 ---
 
 **제목**
